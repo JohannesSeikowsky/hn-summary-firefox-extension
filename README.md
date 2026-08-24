@@ -16,3 +16,7 @@ Temporary add-ons are removed when Firefox restarts. For a persistent installati
 ## Privacy
 
 The extension runs only on `news.ycombinator.com`. It saves your chosen provider locally in Firefox and does not send data to any server.
+
+## License
+
+[MIT](LICENSE)
